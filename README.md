@@ -1,4 +1,5 @@
 # GACHAWORLD
+![GachaWorld-Mockup](https://user-images.githubusercontent.com/75548830/154008993-378e6ca7-db79-47fa-9643-5fdb7c95c8ac.png)
 
 # Table of Content
 
